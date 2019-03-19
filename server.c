@@ -85,7 +85,7 @@ int main()
     } 
     else
         printf("server acccept the client...\n");
-	printf("server is conected with port "= servaddr.sin_port "\n")
+	
   
     // Function for chatting between client and server 
     func(connfd); 
